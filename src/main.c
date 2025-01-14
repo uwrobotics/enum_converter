@@ -84,3 +84,7 @@ void collectUserInput(TypeValue dataBuffer[4], uint8_t serializedBuffer[8]) {
         
     }
 }
+int main(int argc, char *argv[]) {
+   
+    return 0;
+}
