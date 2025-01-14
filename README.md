@@ -6,7 +6,7 @@ project_steup:  <br>
 Collect and serialize user input with support for multiple data types: integers, doubles, and booleans. <br>
 Featuring endian conversion and check for maintaining data integrity within an 8-byte buffer limit. <br>
 Dynamically determines the memory size required for each type using getTypeSize and store the input in a serialized format. <br>
-
+<br>
 test_cases: <br>
 1. Enter type (int/double/boolean): double <br>
 Enter double value: 1.1 <br>
